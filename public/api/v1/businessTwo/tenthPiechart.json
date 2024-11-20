@@ -1,0 +1,34 @@
+{
+    "code": 0,
+    "msg": "ok",
+    "data": {
+        "leftArryOne": [
+            {
+            "value": 45,
+            "name": "CARD"
+            },
+            {
+            "value": 15,
+            "name": "SSD"
+            }
+        ],
+        "leftArryTwo": [
+            {
+            "value": 45,
+            "name": "CARD"
+            },
+            {
+            "value": 25,
+            "name": "SSD"
+            }
+        ],
+        "leftCountOne": 56,
+        "leftCountTwo": 56,
+        "leftTextOne": "服务量",
+        "leftTextTwo": "咨询量",
+        "rightTextOne": "满意度",
+        "rightTextTwo": "接入率",
+        "rightArryOne": [{ "value": 100 }],
+        "rightArryTwo": [{ "value": 100 }]
+    }
+}

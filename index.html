@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>
+    <%= title %>
+  </title>
+  <script>
+    var APPID = "9e7b7041";
+    var API_KEY = "46c6504698bb9dd9939adf2ba8e6efff";
+  </script>
+  <script src="/hmac-sha256.js"></script>
+  <script src="/HmacSHA1.js"></script>
+  <script src="/md5.js"></script>
+  <script src="/enc-base64-min.js"></script>
+  <script src="/dist/index.umd.js"></script>
+  <!-- <script src="./index.js"></script> -->
+</head>
+
+<body>
+  <div id="app"></div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+
+</html>

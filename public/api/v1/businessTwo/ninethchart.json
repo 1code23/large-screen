@@ -1,0 +1,65 @@
+{
+    "code": 0,
+    "msg": "ok",
+    "data": {
+        "data": [
+            {
+                "count": 46.43,
+                "name": "快递慢",
+                "innerItems": [
+                    {
+                        "id": 1
+                    },
+                    {
+                        "id": 2
+                    },
+                    {
+                        "id": 3
+                    }
+                ]
+            },
+            {
+                "count": 28.57,
+                "name": "包装破损",
+                "innerItems": [
+                    {
+                        "id": 1
+                    },
+                    {
+                        "id": 2
+                    }
+                ]
+            },
+            {
+                "count": 8.93,
+                "name": "坏果赔付",
+                "innerItems": [
+                    {
+                        "id": 1
+                    },
+                    {
+                        "id": 2
+                    }
+                ]
+            },
+            {
+                "count": 8.83,
+                "name": "发票问题",
+                "innerItems": [
+                    {
+                        "id": 1
+                    }
+                ]
+            },
+            {
+                "count": 7.14,
+                "name": "其他问题",
+                "innerItems": [
+                    {
+                        "id": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

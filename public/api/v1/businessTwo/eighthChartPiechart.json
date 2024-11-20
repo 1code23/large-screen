@@ -1,0 +1,31 @@
+{
+    "code": 0,
+    "msg": "ok",
+    "data": {
+        "data": [
+            {
+            "value": 90,
+            "name": "苹果",
+            "itemStyle": {
+                "color": "#305605"
+            }
+            },
+            {
+            "value": 7,
+            "name": "猕猴桃",
+            "itemStyle": {
+                "color": "#6FCF97"
+            }
+            },
+            {
+            "value": 3,
+            "name": "其他水果",
+            "itemStyle": {
+                "color": "#219653"
+            }
+            }
+        ],
+        "orchardCount": "20万亩",
+        "orchardCounttext": "果园种植面积"
+    }
+}

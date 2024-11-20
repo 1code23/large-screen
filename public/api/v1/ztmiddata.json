@@ -1,0 +1,36 @@
+{
+    "code": 200,
+    "message": "ok",
+    "data": [
+        {
+            "id": "d89eD7cB-Bc52-C7Ad-cbdf-cCbD2906d14f",
+            "num": 5,
+            "title": "接入系统数",
+            "unit": "套"
+        },
+        {
+            "id": "3C5cE498-bD61-6Ad3-F2Ba-7458fb6aAC85",
+            "num": 0,
+            "title": "接入失败数",
+            "unit": "次"
+        },
+        {
+            "id": "c4cDe16d-98f1-3c4F-828E-F748BEF4A8cB",
+            "num": 5,
+            "title": "响应时间",
+            "unit": "秒"
+        },
+        {
+            "id": "69295334-79FA-43bC-4cCE-7F0E7ec2574d",
+            "num": 3064,
+            "title": "数据接入（每日）",
+            "unit": "条"
+        },
+        {
+            "id": "c4cDe16d-98f1-3c4F-828E-F748BEF4A889",
+            "num": 257,
+            "title": "异常报警（每日）",
+            "unit": "次"
+        }
+    ]
+}
